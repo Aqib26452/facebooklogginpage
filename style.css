@@ -1,0 +1,39 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+.body {
+  background: #ffffff;
+}
+.setcont {
+  /* height: 50%; */
+  background: white;
+  padding: 40px;
+}
+.posset {
+  /* height: 100vh; */
+  margin-top: 10% !important;
+}
+.marginset {
+  margin-top: 30px !important;
+}
+.color {
+  color: #553bc5;
+}
+.logincolor {
+  color: rgb(51, 49, 49) !important;
+  font-weight: bolder !important;
+  transition: 0.9s all !important;
+}
+.logincolor:hover {
+  color: rgb(253, 251, 251) !important;
+  background: #368b1c !important;
+}
+.fontset {
+  font-weight: bold !important;
+  transition: 0.9s all !important;
+}
+.fontset:hover {
+  color: antiquewhite !important;
+  font-weight: normal !important;
+}
